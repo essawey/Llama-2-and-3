@@ -25,16 +25,16 @@ The first notebook demonstrates the application of the Llama 2 model, fine-tuned
 ### Features:
 - Data preprocessing and cleaning
 - Model training and fine-tuning
-- Data analysis and visualization
+- Analysis and contextual generation
 
 ## Notebook 2: Llama 3 Model
 
 The second notebook builds on the first by introducing the Llama 3 model. This model is also fine-tuned on historical datasets and provides enhanced performance and accuracy over the Llama 2 model.
 
 ### Features:
-- Advanced data preprocessing techniques
-- Enhanced model training and fine-tuning
-- Comprehensive data analysis and visualization
+- Data preprocessing techniques
+- Model training and fine-tuning
+- Analysis and contextual generation
 
 ## Notebook 3: Retrieval-Augmented Generation (RAG) System
 
