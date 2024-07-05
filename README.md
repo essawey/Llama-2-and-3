@@ -42,8 +42,8 @@ The third notebook explores the use of a Retrieval-Augmented Generation (RAG) sy
 
 ### Features:
 - Integration of retrieval-based methods
-- Training and fine-tuning of the RAG system
-- Detailed data analysis and contextual generation
+- Huggingface Arabic BERT Large Model use
+- Analysis and contextual generation
 
 ## Historical Datasets
 
