@@ -1,6 +1,6 @@
-# Guitar Repository
+# Llama Repository
 
-Welcome to the Guitar Repository! This repository contains three main Python notebooks that explore historical datasets using state-of-the-art machine learning models. Below is an overview of the contents and structure of the repository.
+Welcome to the Llama Repository! This repository contains three main Python notebooks that explore historical datasets using state-of-the-art machine learning models. Below is an overview of the contents and structure of the repository.
 
 ## Table of Contents
 
